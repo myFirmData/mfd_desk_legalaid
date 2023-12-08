@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: myFirmDataLegalAid-setup-1.0.0.exe
+    sha512: zT91AwZnXBjBREZJT2qJFw53Q5eVRdgjgrO8c+0rwioqCmkpmOS7DlbcLuONfq/kr3IOXua2jDaUOSAgFYBBSQ==
+    size: 74568096
+path: myFirmDataLegalAid-setup-1.0.0.exe
+sha512: zT91AwZnXBjBREZJT2qJFw53Q5eVRdgjgrO8c+0rwioqCmkpmOS7DlbcLuONfq/kr3IOXua2jDaUOSAgFYBBSQ==
+releaseDate: '2023-12-08T02:43:36.928Z'
